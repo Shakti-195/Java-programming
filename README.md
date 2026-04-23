@@ -1,2 +1,2 @@
 # Java-programming
-practicing  java  from zero
+practicing  java  from scratch
